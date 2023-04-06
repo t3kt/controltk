@@ -1,0 +1,5 @@
+name	path
+controltk root	/controltk
+controltk tools	/controltk/tools
+controltk comps	/controltk/components
+controltk ops	/controltk/operators
